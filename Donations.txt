@@ -1,3 +1,1 @@
-@:1
-Theodor:2
-Skliskiy:1
+<ArrayList>;Theodor;
