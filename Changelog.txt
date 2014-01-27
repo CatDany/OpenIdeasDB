@@ -1,6 +1,6 @@
-1.0v5
+1.0b5
 
-1.0v0
+0.0.0
 - Ya old one!
 - Really old
 - #aga
