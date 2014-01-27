@@ -1,8 +1,6 @@
-1.0v7
-- Added cool stuff
-- Added another cool stuff
+1.0v5
 
-1.0v6
+1.0v0
 - Ya old one!
 - Really old
 - #aga
