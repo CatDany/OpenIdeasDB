@@ -1,4 +1,8 @@
-1.0b5
+1.0b6
+- Added Trap Juke Box
+- Added /wrath, /gc, /cleardrops commands
+- Added in-game version checker
+- Fixed donators system
 
 0.0.0
 - Ya old one!
