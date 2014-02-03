@@ -1,3 +1,7 @@
+1.0b7
+- Changed Beheader mechanics a bit
+- Fixed Nice Little Wrench with TE machines
+
 1.0b6
 - Added Trap Juke Box
 - Added /wrath, /gc, /cleardrops commands
