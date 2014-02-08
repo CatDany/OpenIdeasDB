@@ -1,3 +1,5 @@
+1.0b9pre
+
 1.0b8
 - Added OreDict recipe for Amazing Boots
 - Fixed Amazing Boots in multiplayer
