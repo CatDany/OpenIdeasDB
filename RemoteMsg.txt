@@ -1,1 +1,4 @@
 null
+
+# Reads only first line #
+# If set to "null", nothing will be shown #
