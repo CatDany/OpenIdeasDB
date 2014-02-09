@@ -1,5 +1,7 @@
-1.0b9pre1
+1.0b9
 - Added Rainvoker
+- Added Etho Pick
+- PortalGun and GraviGun can't grab wardstones
 
 1.0b8
 - Added OreDict recipe for Amazing Boots
