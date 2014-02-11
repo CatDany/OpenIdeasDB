@@ -1,3 +1,6 @@
+1.0b9a
+- Fixed & nerfed Etho Pick
+
 1.0b9
 - Added Rainvoker
 - Added Etho Pick
