@@ -1,3 +1,7 @@
+1.0b10:
+- Added Ethickle
+- Added Stacker
+
 1.0b9a
 - Fixed & nerfed Etho Pick
 
