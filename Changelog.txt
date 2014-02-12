@@ -1,4 +1,4 @@
-1.0b10:
+1.0b10
 - Added Ethickle
 - Added Stacker
 
