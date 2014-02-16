@@ -1,4 +1,4 @@
-1.0b11:
+1.0b11
 - Added Ethword (Etho Sword)
 - Added new Etho Pick mechanics
 - Added command /oi-setspawn
