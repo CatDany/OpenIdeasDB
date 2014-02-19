@@ -1,3 +1,6 @@
+1.0b11a:
+- Fixed Etho Pick ice bug
+
 1.0b11
 - Added Ethword (Etho Sword)
 - Added new Etho Pick mechanics
