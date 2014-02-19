@@ -1,4 +1,4 @@
-1.0b11a:
+1.0b11a
 - Fixed Etho Pick ice bug
 
 1.0b11
