@@ -1,3 +1,7 @@
+1.0b12
+- Added Mythril blocks, generation, FMP support
+- Fixed: Etho Pick breaks all rocks 3x1
+
 1.0b11a
 - Fixed Etho Pick ice bug
 
