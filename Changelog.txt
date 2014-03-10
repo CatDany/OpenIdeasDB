@@ -4,6 +4,7 @@
 1.1a1
 - Added Uber Wardstone Builder, Voodoo Doll
 - Fixed a lot of bugs
+- You can now use $gc instead of /gc client (doesn't require permissions)
 - Removed BuildCraft compatibility
 
 1.0b12
