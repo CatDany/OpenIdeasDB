@@ -1,3 +1,11 @@
+1.1a2
+- Fixed Uber Wardstone Recipe
+
+1.1a1
+- Added Uber Wardstone Builder, Voodoo Doll
+- Fixed a lot of bugs
+- Removed BuildCraft compatibility
+
 1.0b12
 - Added Mythril blocks, generation, FMP support
 - Fixed: Etho Pick breaks all rocks 3x1
